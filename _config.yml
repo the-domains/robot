@@ -1,0 +1,28 @@
+name: robot
+favicon: null
+layout_spectrum: 0.6656752415001392
+typography_spectrum: 0.9624797676224262
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6729733056854457
+  lightness: 0.7042767060920596
+  saturation: 0.1625902419909835
+  rhythmicContrast: 0.5543823267798871
+purpose: []
